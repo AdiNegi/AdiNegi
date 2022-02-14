@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdiNegi
 - 👀 I’m interested in Making Programs
-- 🌱 I’m currently learning Python Tkinter
+- 🌱 I’m currently learning pcm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
